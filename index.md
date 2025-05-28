@@ -2,6 +2,15 @@
 layout: default
 ---
 
+# Nouvelles
+* ??? (2019-2025) - _aventure_ - **? pages**
+* L'évasion des bulles (2021) - _science-fiction_ - **24 pages**
+
+# Trois courtes nouvelles mélancoliques
+* A la poursuite du vivant (2022) - _romance_ - **7 pages**
+* Nadzieja (2017) - _dystopie_ - **7 pages**
+* L'être de tendresse (2023) - _fantastique_ - **6 pages**
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
